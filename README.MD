@@ -1,6 +1,6 @@
 # **Theater Kickstarter Success Analysis**
 
-## This analysis report will find the best time and funding amount for a successful Theater-based Kickstarter
+## This analysis report will find the best time/funding for a successful Theater-based Kickstarter
 
 ### Main Analysis
   I was able to compile a large Theater Kickstarter dataset, condenced down from a large set of different types of kickstarters from between 2009-2017. After narrowing down Theater Kickstarters by month, year, goal amount and pledged amount, we were able to have further insight into this information. We can now pinpoint down to what month and what goal amount had the greatest success rate.
