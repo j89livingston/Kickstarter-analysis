@@ -9,12 +9,12 @@ Once I was able to compile Theater Kickstarter data based off the Years started,
 Based on the Chart, we can see two important points: 
 1. May has the most successful outcome 
 2. December has the least successful outcome
-![Theater_Outcomes_vs_Launch.png](/Resources/Theater_outcomes_vs_Launch.png)
+![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png)
 
 ### Analysis of Outcomes Based on Goals
 Based on the Chart, we can conclude:
 1. Goals $4999 and under had the highest success rate.
-![Outcomes_vs_Goals.png](/Resources/Outcomes_vs_Goals.png)
+![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
 
 ### Challenges and Difficulties 
 This analysis was fairly straight-forward. There could have been issues with the Goal outcomes graph if you didn't include an equal to value to the greater/less than count. By testing both codes, you could quickly tell the importance of exact amounts in this dataset
